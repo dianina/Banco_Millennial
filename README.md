@@ -75,6 +75,9 @@ Los primeros sketches....
 
 PRODUCTO MÍNIMO VIABLE (MVP):
 ----
+
+Entendiendo que según nuestros hallazgos, el Millennial busca un mundo mejor pero, organizado con su estilo, concluímos realizando el siguiente prototipo final:
+
 Producto prototipado.
 
 ![IMG](http://i66.tinypic.com/nehssg.jpg)
