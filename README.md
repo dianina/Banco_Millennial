@@ -91,3 +91,13 @@ CONCLUSIONES
 Dentro de todo este enigmático marco millennial, les presentamos a ustedes el puntapié inicial, una solución mejorada de lo que esperamos sea el banco preferido por la audiencia adulta-joven millenial. El proceso será una transición paulatina, que conlleva tiempo y esfuerzo mejorarla.  Nuestro objetivo es ir validando cada paso evolutivo con las polìticas y el modelo de negocio del Banco del País, y a la par, continuar iterando la solución con la enriquecedora participación de los usuarios.  Es un proyecto integrador, que se irá liberando por fases.
 
 Si el desafío es migrar hacia una nueva forma de trabajar y de hacer banca, una manera de relacionarnos con usuarios que piden cosas nuevas, es vital entender cómo ese público quiere relacionarse con nosotros y con nuestros productos.  Todo esto, por supuesto, sin perder el eje de lograr la captura fidelizada de clientes, y por el ende, el aumento en las ventas.
+
+
+**Herramientas utilizadas**:  *Marvel App*
+
+**Autores**:
+Agustina Valenti
+Diana Chaparro Castro
+https://github.com/dianina
+dianachcastro@yahoo-es
+Febrero de 2018
