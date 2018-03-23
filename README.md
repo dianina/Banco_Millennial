@@ -16,7 +16,7 @@ Laboratoria
 
 
 ##### Contexto:  
-Trabajo solicitado por el Programa de estudios de Laboratoria, dentro de su ciclo de especialización en UX Design.
+Trabajo en grupos de dos personas, solicitado por el Programa de estudios de Laboratoria, dentro de su ciclo de especialización en UX Design.
 Participé en todos los procesos del proyecto, tanto investigación,  como ejecución de sketches, testing y prototipos.
 
 
