@@ -96,10 +96,13 @@ Si el desafío es migrar hacia una nueva forma de trabajar y de hacer banca, una
 **Herramientas utilizadas**:  *Marvel App*
 
 **Autores**:
+
 Agustina Valenti
 
 Diana Chaparro Castro
+
 https://github.com/dianina
+
 dianachcastro@yahoo-es
 
 Febrero de 2018
