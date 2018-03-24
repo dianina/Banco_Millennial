@@ -2,6 +2,7 @@
 
 Solución para mejorar la experiencia del usuario dentro del proceso de transformación digital de un banco. 
 
+![Banca_Millennial_preview](http://i66.tinypic.com/25it5oh.jpg)
 
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
