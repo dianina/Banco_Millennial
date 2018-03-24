@@ -1,3 +1,11 @@
+# BANCO MILLENNIAL
+
+Solución para mejorar la experiencia del usuario dentro del proceso de transformación digital de un banco. 
+
+![Banco_millennial_preview](http://i67.tinypic.com/rk91nc.jpg)
+
+## Desarrollado para [Laboratoria](http://laboratoria.la)
+
 
 Febrero de 2018
 
@@ -10,9 +18,6 @@ Público objetivo:
 -----
 Público del Banco Joven, enfoque al segmento "Millennial".
 
-Cliente:
------
-Laboratoria
 
 
 ##### Contexto:  
